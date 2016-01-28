@@ -1,9 +1,9 @@
 
-# 2016 Personal goals 
+# 2016 Personal goals
 
 Yes - they are open source for accessibility across computers I use. Also open for transparency, accountability, and of course versioning.
 
-## Things I'll do This month January:
+## Things I'll do in January:
 
 - [ ] Publish Book - Aus Talhofzeiten
 	- [ ] final revisions
@@ -13,13 +13,23 @@ Yes - they are open source for accessibility across computers I use. Also open f
 ## Projects:
 
 - [ ] Raspbery PI setup
+	- [x] order a PI
 	- [x] PI wifi
 	- [ ] PI OS
-	- [ ] PI course , online
+	- [ ] PI course , online at [coursera](https://www.coursera.org/learn/raspberry-pi-platform)
 	- [ ] Meet up [Raspberry Pi SpoCode event - Feb  6](http://www.meetup.com/Python-Spokane/events/227786604/)
 
-- [ ]  Book - Aus Talhofzeiten
+## Review:
+
+- [ ] Craft CMS
+- [ ] Twig
 
 
 
 ## Backlog:
+
+- [ ] LRWCo - project
+	- [x] ux protptyping
+	- [ ] set up CMS shell
+	- [ ] Convert UX pages to theme
+
