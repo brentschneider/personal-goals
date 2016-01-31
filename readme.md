@@ -13,17 +13,18 @@ Yes - they are open source for accessibility across computers I use. Also open f
 ## Projects:
 
 - [ ] Raspbery PI setup
-	- [x] order a PI
+	- [x] order a PI - received
 	- [x] PI wifi
 	- [ ] PI OS
-	- [ ] PI course , online at [coursera](https://www.coursera.org/learn/raspberry-pi-platform)
+	- [x] PI course , online at [coursera](https://www.coursera.org/learn/raspberry-pi-platform)
+	- [ ] Pi kit
 	- [ ] Meet up [Raspberry Pi SpoCode event - Feb  6](http://www.meetup.com/Python-Spokane/events/227786604/)
+
 
 ## Review:
 
 - [ ] Craft CMS
 - [ ] Twig
-
 
 
 ## Backlog:
@@ -32,4 +33,4 @@ Yes - they are open source for accessibility across computers I use. Also open f
 	- [x] ux protptyping
 	- [ ] set up CMS shell
 	- [ ] Convert UX pages to theme
-
+	
