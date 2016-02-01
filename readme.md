@@ -6,11 +6,10 @@ Yes - they are open source for accessibility across computers I use. Also open f
 ## Things I'll do in January:
 
 - [ ] Publish Book - Aus Talhofzeiten
-	- [ ] final revisions
-	- [ ] print one off for approval
+	- [x] final revisions
 
 
-## Projects:
+## __Projects:__
 
 - [ ] Raspbery PI setup
 	- [x] order a PI - received
@@ -21,16 +20,26 @@ Yes - they are open source for accessibility across computers I use. Also open f
 	- [ ] Meet up [Raspberry Pi SpoCode event - Feb  6](http://www.meetup.com/Python-Spokane/events/227786604/)
 
 
-## Review:
-
-- [ ] Craft CMS
-- [ ] Twig
-
-
-## Backlog:
-
 - [ ] LRWCo - project
 	- [x] ux protptyping
-	- [ ] set up CMS shell
+	- [x] set up CMS shell
 	- [ ] Convert UX pages to theme
-	
+	- [ ] Move to new domain
+
+## __Review:__
+
+- [ ] next version of brentschneider.github.io
+
+- 650 kb [Performance budget](http://codepen.io/brentschneider/pen/pgVZGJ)
+
+- Styles
+  - portfolio http://www.jenniferthibault.com/
+  - Keep it [accessable](http://a11yproject.com/)
+  - informational https://greg.harmsboone.org/
+
+
+## __Backlog:__
+
+- [ ] [Cloud9](https://c9.io/)
+- [ ] [Craft CMS](https://craftcms.com/), [getting started](https://straightupcraft.com/articles/getting-started-with-craft-cms)
+- [ ] Twig 
