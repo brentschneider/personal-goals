@@ -37,38 +37,38 @@ Priority list:
 
 __Groups and Volunteers__
 
-[ ] EWU Acm Group - set up meeting with.
-    [ ] Meet with group
-    [ ] build usb sticks?
-    [ ] getting the word out
+- [ ] EWU Acm Group - set up meeting with.
+    - [ ] Meet with group
+    - [ ] build usb sticks?
+    - [ ] getting the word out
 
-[ ] EWU VCD Instructors - love the idea, set up meeting with.
-	[ ] Meet with Instructors
-	[ ] VCD poster design
+- [ ] EWU VCD Instructors - love the idea, set up meeting with.
+	- [ ] Meet with Instructors
+	- [ ] VCD poster design
 
-[ ] Sponsorship, need Financing for incidentals in order to host event.
-	[ ] Beer & Wine sponsor
+- [ ] Sponsorship, need Financing for incidentals in order to host event.
+	- [ ] Beer & Wine sponsor
 
-[ ] DJ for event
+- [ ] DJ for event
 
 
 __Location details__
 
-[ ] Secure location - Terrain / New Fellow 
-[ ] music set up & DJ
-[ ] bartenders
-[ ] designated drink section
-[ ] cover / donation at door?
-[ ] Banquet permit
+- [ ] Secure location - Terrain / New Fellow 
+- [ ] music set up & DJ
+- [ ] bartenders
+- [ ] designated drink section
+- [ ] cover / donation at door?
+- [ ] Banquet permit
 
  banquet permit, [order online](https://lcb.wa.gov/licensing/online-banquet-permit)
 
 __Marketing of event__
-[ ] VCD students, designing posters for event??
-[ ] & distributed throughout community groups
-[ ] Social media campaign
-[ ] push date to github CITD repo
-[ ] Event photographers
+- [ ] VCD students, designing posters for event??
+- [ ] & distributed throughout community groups
+- [ ] Social media campaign
+- [ ] push date to github CITD repo
+- [ ] Event photographers
 
 
 ## __Review:__
@@ -87,4 +87,4 @@ __Marketing of event__
 
 - [ ] [Cloud9](https://c9.io/)
 - [ ] [Craft CMS](https://craftcms.com/), [getting started](https://straightupcraft.com/articles/getting-started-with-craft-cms)
-- [ ] Twig 
+- [ ] Twig
