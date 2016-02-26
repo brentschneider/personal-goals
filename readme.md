@@ -1,9 +1,10 @@
 
 # 2016 Personal goals, tasks, projects
 
-Yes - they are open source for accessibility across computers I use. Also open for transparency, accountability, and of course versioning.
+Woah thats your list? Yes - they are open source for accessibility across computers I use. Also for transparency, accountability, and of course versioning.
 
-## Things I'll do in January:
+
+## Things to work on in March:
 
 - [ ] Publish Book - Aus Talhofzeiten
 	- [x] final revisions
@@ -11,12 +12,12 @@ Yes - they are open source for accessibility across computers I use. Also open f
 
 # __Projects:__
 
-- [ ] Raspbery PI setup
+- [x] Raspbery PI setup
 	- [x] order a PI - received
 	- [x] PI wifi
-	- [ ] PI OS
+	- [x] PI OS
 	- [x] PI course , online at [coursera](https://www.coursera.org/learn/raspberry-pi-platform)
-	- [ ] Pi kit
+	- [x] Pi kit
 	- [x] Meet up [Raspberry Pi SpoCode event - Feb  6](http://www.meetup.com/Python-Spokane/events/227786604/)
 
 
@@ -24,9 +25,9 @@ Yes - they are open source for accessibility across computers I use. Also open f
 	- [x] ux protptyping
 	- [x] set up CMS shell
 	- [ ] Convert UX pages to theme
-		- [ ] home
+		- [-] home
 		- [ ] contact
-		- [ ] wines
+		- [-] wines
 		- [ ] wine detail
 		- [ ] cart
 		- [ ] about
@@ -40,7 +41,7 @@ Yes - they are open source for accessibility across computers I use. Also open f
 
 Priority list:
 
-- [ ] Finalize date ( April 15th )
+- [x] Finalize date ( May 20th )
 - [ ] Team registration
 - [ ] T-shirt for participation
 - [ ] Prizes?
@@ -49,8 +50,8 @@ Priority list:
 __Groups and Volunteers__
 
 - [ ] EWU Acm Group - set up meeting with.
-    - [ ] Meet with group
-    - [ ] build usb sticks?
+    - [x] Meet with group
+    - [-] build usb sticks?
     - [ ] getting the word out
 
 - [ ] EWU VCD Instructors - love the idea, set up meeting with.
@@ -65,10 +66,10 @@ __Groups and Volunteers__
 		- [x] Tinbender Distillary
 
 - [ ] DJ for event
- 
+
 __Location details__
 
-- [ ] Secure location - Terrain / New Fellow 
+- [ ] Secure location - Terrain
 - [ ] music set up & DJ
 - [ ] bartenders
 - [ ] designated drink section
@@ -85,17 +86,17 @@ __Marketing of event__
 - [ ] Event photographers
 
 
+Event Update: Feb 26
 
-## __Review:__
+[x] Contact list created.
+[x] EWU ACM interested in preparing for the event & finding volunteers to assist during.
+[x] Michael & Zach are helping with donors.
+[x] Mark has a domain we can temporarily use.
+[x] May 20th Date is open for Terrain space.
+[x] Trello board up
+[x] Rebecca helping with design
 
-- [ ] next version of brentschneider.github.io
 
-- 650 kb [Performance budget](http://codepen.io/brentschneider/pen/pgVZGJ)
-
-- Styles
-  - portfolio http://www.jenniferthibault.com/
-  - Keep it [accessable](http://a11yproject.com/)
-  - informational https://greg.harmsboone.org/
 
 
 ## __Backlog:__
@@ -103,3 +104,9 @@ __Marketing of event__
 - [ ] [Cloud9](https://c9.io/)
 - [ ] [Craft CMS](https://craftcms.com/), [getting started](https://straightupcraft.com/articles/getting-started-with-craft-cms)
 - [ ] Twig
+- [ ] next version of brentschneider.github.io
+- 650 kb [Performance budget](http://codepen.io/brentschneider/pen/pgVZGJ)
+- Styles
+  - portfolio http://www.jenniferthibault.com/
+  - Keep it [accessable](http://a11yproject.com/)
+  - informational https://greg.harmsboone.org/
