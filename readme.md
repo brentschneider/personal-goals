@@ -7,22 +7,30 @@ Woah thats your list? Yes - they are open source for accessibility across comput
 # __Volunteer Director for INT__
 
 Planning:
-
+- [ ] UX research for job board [team.digital](http://team.digital/)
 - [ ] Fall EWU code-in-the-dark style event "internships" for credit
 - [ ] Django Girls workshop
-- [-] 2017 Django Con planning
 
 
 # __Projects__
 
-- [ ] next version of brentschneider.github.io
-- Performance budget: 995 kb [tracker](http://codepen.io/brentschneider/pen/pgVZGJ)
-- Styles
-  - open https://gomakethings.com/open-source/
-  - simple https://sarasoueidan.com/articles/
-  - portfolio http://www.jenniferthibault.com/
-  - Keep it [accessable](http://a11yproject.com/)
-  - informational https://greg.harmsboone.org/
+[x] next version of brentschneider.github.io
+[x] open https://gomakethings.com/open-source/
+[x] simple https://sarasoueidan.com/articles/
+[x] Keep it [accessable](http://a11yproject.com/)
+[x] Make it informational https://greg.harmsboone.org/
+[x] informational https://greg.harmsboone.org/
+
+
+__Report:__
+- Performance budget target: 995 kb [tracker](http://codepen.io/brentschneider/pen/pgVZGJ)
+- Primed Cache: 2.43 kb - 0.04 seconds - 20 requests
+- Empty  Cache: 1.23 mb - 0.99 seconds - 20 requests
+
+__Iterate portfolio to contain separate pages__
+- portfolio http://www.jenniferthibault.com/
+
+
 
 
 ## __Backlog:__
@@ -34,6 +42,7 @@ Planning:
 
 ## Completed
 
+- [x] 2017 DjangoCon Bid for Venue, July 10th, 2016
 - [x] Code in the Dark Spokane - May 20th, and v2 site at [hackspokane.com](http://hackspokane.com)
 - [x] Raspbery PI - hardware and tool kit
 - [x] First Friday - Art project // May 6th
