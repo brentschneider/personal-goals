@@ -1,15 +1,16 @@
 
 # 2016 Personal goals, tasks, projects
 
-Woah thats your list? Yes - they are open source for accessibility across computers I use also for transparency, accountability, and of course versioning.
+Woah whats with the list?
+
+Inspired by #18f to be more open, I use this list for transparency, accountability, and of course sharing across devices I use.
 
 
 # __Volunteer Director for INT__
 
-Planning:
 - [ ] UX research for job board [team.digital](http://team.digital/)
 - [ ] Fall EWU code-in-the-dark style event "internships" for credit
-- [ ] Django Girls workshop
+- [ ] Django Girls workshop planning
 
 
 # __Projects__
