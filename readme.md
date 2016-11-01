@@ -1,35 +1,27 @@
 
 # 2016 Personal goals, tasks, projects
 
-Woah whats with the list?
+Woah.. whats with the list?
 
-Inspired by #18f to be more open, I use this list for transparency, accountability, and of course sharing across devices I use.
+Inspired by #18f to be open, this list for transparency, accountability, and of course sharing across devices I use.
+
+## __Fun stuff__
+- [] Treehouse, complete Front-end-development track
 
 
 # __Volunteer Director for INT__
 
-- [ ] UX research for job board [team.digital](http://team.digital/)
+Prep for Code in the Dark II
+
 - [ ] Fall EWU code-in-the-dark style event "internships" for credit
+
+- [ ] UX research for job board [team.digital](http://team.digital/)
 - [ ] Django Girls workshop planning
 
 
 # __Projects__
 
-[x] next version of brentschneider.github.io
-[x] open https://gomakethings.com/open-source/
-[x] simple https://sarasoueidan.com/articles/
-[x] Keep it [accessable](http://a11yproject.com/)
-[x] Make it informational https://greg.harmsboone.org/
-[x] informational https://greg.harmsboone.org/
-
-
-__Report:__
-- Performance budget target: 995 kb [tracker](http://codepen.io/brentschneider/pen/pgVZGJ)
-- Primed Cache: 2.43 kb - 0.04 seconds - 20 requests
-- Empty  Cache: 1.23 mb - 0.99 seconds - 20 requests
-
-__Iterate portfolio to contain separate pages__
-- portfolio http://www.jenniferthibault.com/
+[ ] Bid: one page, plus contact for DDS
 
 
 
@@ -48,3 +40,24 @@ __Iterate portfolio to contain separate pages__
 - [x] Raspbery PI - hardware and tool kit
 - [x] First Friday - Art project // May 6th
 - [x] Publish Book - Aus Talhofzeiten
+- [x] New version of brentschneider.github.io
+Report:
+    - Performance budget target: 995 kb [tracker](http://codepen.io/brentschneider/pen/pgVZGJ)
+    - Primed Cache: 2.43 kb - 0.04 seconds - 20 requests
+    - Empty  Cache: 1.23 mb - 0.99 seconds - 20 requests
+Iterate portfolio to contain separate page
+    - portfolio http://www.jenniferthibault.com/
+    - [x] make it open https://gomakethings.com/open-source/
+    - [x] keep the design simple https://sarasoueidan.com/articles/
+    - [x] Make the content [accessable](http://a11yproject.com/)
+    - [x] Keep it informational https://greg.harmsboone.org/
+    - [x] ... informational https://greg.harmsboone.org/
+- [x] Sketch
+  - CSSketch https://github.com/JohnCoates/CSSketch.git
+  - Constraints https://github.com/bouchenoiremarc/Sketch-Constraints
+  - Color palettes https://github.com/andrewfiorillo/sketch-palettes
+  - icon fonts https://github.com/keremciu/sketch-iconfont
+  - Find & Replace https://github.com/mscodemonkey/Sketch-Find-And-Replace
+
+
+## other
