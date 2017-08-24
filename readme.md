@@ -1,45 +1,19 @@
 
-# 2016 Personal goals, tasks, projects
+# 2017 ✨
 
-Woah.. whats with the list?
-
-Inspired by #18f to be open, this list for transparency, accountability, and of course sharing across devices I use.
-
-## __Fun stuff__
-- [] Treehouse, complete Front-end-development track
+- [x] DjangoCon US Organizer
+- [x] Django Girls workshop organizer
+- [x] DDS project site complete
+- [x] Organized [Code in the Dark II](https://codeinthedarkspokane.com/)
 
 
-# __Volunteer Director for INT__
-
-Prep for Code in the Dark II
-
-- [ ] Fall EWU code-in-the-dark style event "internships" for credit
-
-- [ ] UX research for job board [team.digital](http://team.digital/)
-- [ ] Django Girls workshop planning
-
-
-# __Projects__
-
-[ ] Bid: one page, plus contact for DDS
-
-
-
-
-## __Backlog:__
-
-- [ ] [Cloud9](https://c9.io/)
-- [ ] [Craft CMS](https://craftcms.com/),
-- [ ] Craft CMS [getting started](https://straightupcraft.com/articles/getting-started-with-craft-cms)
-
-
-## Completed
+# 2016 🍄↑
 
 - [x] 2017 DjangoCon Bid for Venue, July 10th, 2016
-- [x] Code in the Dark Spokane - May 20th, and v2 site at [hackspokane.com](http://hackspokane.com)
-- [x] Raspbery PI - hardware and tool kit
-- [x] First Friday - Art project // May 6th
-- [x] Publish Book - Aus Talhofzeiten
+- [x] Organized 1st annual [Code in the Dark Spokane](https://codeinthedarkspokane.com/)
+- [x] Attanded Raspbery PI robot workshop
+- [x] First Friday - 8 bit Art project // May 6th
+- [x] Published a Book - Aus Talhofzeiten
 - [x] New version of brentschneider.github.io
 Report:
     - Performance budget target: 995 kb [tracker](http://codepen.io/brentschneider/pen/pgVZGJ)
@@ -52,7 +26,7 @@ Iterate portfolio to contain separate page
     - [x] Make the content [accessable](http://a11yproject.com/)
     - [x] Keep it informational https://greg.harmsboone.org/
     - [x] ... informational https://greg.harmsboone.org/
-- [x] Sketch
+- [x] Switch to Sketch for UX/UI
   - CSSketch https://github.com/JohnCoates/CSSketch.git
   - Constraints https://github.com/bouchenoiremarc/Sketch-Constraints
   - Color palettes https://github.com/andrewfiorillo/sketch-palettes
@@ -60,4 +34,8 @@ Iterate portfolio to contain separate page
   - Find & Replace https://github.com/mscodemonkey/Sketch-Find-And-Replace
 
 
-## other
+## __Fun stuff__
+- [x] Treehouse, complete Front-end-development track
+- [x] [Cloud9](https://c9.io/)
+
+ Inspired by #18f to be open, this list is for memory sake, transparency, accountability, and of course sharing across devices I use.
