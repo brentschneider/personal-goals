@@ -1,4 +1,16 @@
 
+# 2018 🍪
+
+- [x] Began teaching for [NuCamp](https://www.nucamp.co/home?referral=JIXHW4), a programming bootcamp focused on community.
+- [x] Co-Founded Future Ada, To secure space for women and non-binary individuals in the STEAM (science, technology, engineering, art, and mathematics) fields.
+- [x] Created a [UX Portfolio](https://drive.google.com/open?id=11PcpuzdF40zpxig_2_ltw0fg1u8xkvCQ) PDF
+> [futureada.org](https://futureada.org)
+- [x] Co-organized [Code in the Dark III](https://codeinthedarkspokane.com/)
+- [x] 🎉Experienced a life-changing event, found my biological mom (sister, brother, grandpa, aunt, uncle, & extended family)
+- [x] Visited Ireland for the first time.
+- [x] Lead organizer for [Spokane UX](https://www.nucamp.co/referral). This group brings user experience professionals and learners together to share knowledge, insights, and have fun along the way.
+
+
 # 2017 ✨
 
 - [x] DjangoCon US Organizer
@@ -38,4 +50,4 @@ Iterate portfolio to contain separate page
 - [x] Treehouse, complete Front-end-development track
 - [x] [Cloud9](https://c9.io/)
 
- Inspired by #18f to be open, this list is for memory sake, transparency, accountability, and of course sharing across devices I use.
+ Inspired by #18f to be open, this list is for memory sake, transparency, accountability, and sharing.
